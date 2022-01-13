@@ -1,0 +1,9 @@
+fieldset{
+    border-bottom: 0;
+    /* border-right: 0; */
+    /* border-left: 0; */
+    width: 200px;
+    text-align: center;
+    display: flex;
+    border-color: rgb(155, 154, 154);
+}
